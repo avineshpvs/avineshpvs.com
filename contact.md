@@ -1,6 +1,6 @@
 ---
 id: 224
-title: 'I&#8217;d love to get in touch'
+title: 'Contact''
 date: 2013-02-12T16:35:41+00:00
 author: Avi
 layout: page

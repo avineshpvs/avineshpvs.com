@@ -1,6 +1,6 @@
 ---
 id: 710
-title: 'LoneRider &#8211; Avi'
+title: 'LoneRider Diaries'
 date: 2015-02-23T11:12:59+00:00
 author: Avi
 layout: page
