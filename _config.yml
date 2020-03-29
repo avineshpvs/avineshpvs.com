@@ -68,3 +68,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+url: http://www.avineshpvs.com
+name: Avinesh P.V.S.
+description: 'NLP Specialist &amp; Data Scientist, Adventure Freak and Traveler'
+
+theme: jekyll-theme-minimal
