@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Blog"
+    url: /_pages/blog
+  - title: "LoneRider"
+    url: /_pages/lonerider-avi
+  - title: "101 Bucket List"
+    url: /_pages/101-bucket-list
+  - title: "Sitemap"
+    url: /sitemap/
