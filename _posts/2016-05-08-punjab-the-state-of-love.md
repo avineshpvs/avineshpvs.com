@@ -3,7 +3,7 @@ id: 1017
 title: 'Punjab: The State of love'
 date: 2016-05-08T10:45:54+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=1017
 permalink: /punjab-the-state-of-love
 snap_isAutoPosted:

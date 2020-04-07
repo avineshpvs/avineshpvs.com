@@ -18,59 +18,187 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Avinesh P.V.S
-email: avinesh@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://avineshpvs.com" # the base hostname & protocol for your site, e.g. http://example.com
-
 github_username:  avineshpvs
+github: [metadata]
+minimal_mistakes_skin: default
+
+locale                   : "en-US"
+title                    : "Avinesh P.V.S"
+title_separator          : "-"
+subtitle                 : "NLP & ML Researcher, Adventurer and Traveler"
+name                     : "Avinesh P.V.S"
+description              : >-
+url                      : https://avineshpvs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "avineshpvs/avineshpvs.github.io"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
+  disqus:
+    shortname            :
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+reCaptcha:
+  siteKey                : # "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
+  secret                 : # "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
+
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia
+lunr:
+  files_to_exclude:
+    - _posts/2017-11-28-post-exclude-search.md
+
+# SEO Related
+google_site_verification : "" # Replace this with your ID, or delete
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
+
+# Social Sharing
+twitter:
+  username               : &twitter "avineshpvs"
+facebook:
+  username               : &facebook "avineshpvs"
+  app_id                 :
+  publisher              :
+og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
+# For specifying social profiles, used in _includes/seo.html
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://twitter.com/mmistakes"
+    - "https://www.facebook.com/michaelrose"
+
+# Analytics
+analytics:
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    anonymize_ip         : true
+
 
 # Build settings
-remote_theme: thelehhman/plainwhite-jekyll
-theme: plainwhite
-plainwhite:
-  name: Avinesh P.V.S
-  tagline: NLP, ML Research Scientist
-  date_format: "%b %-d, %Y"
-  disqus_shortname: games
-  analytics_id: '2430029'
-  sitemap: true
-  show_excerpts: true
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-  social_links:
-    twitter: avineshpvs
-    github: avineshpvs
-    linkedIn: in/avineshpvs
-  
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+include:
+  - _pages
+  - _posts
+  - assests/css/style.scss
 
 # Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
 # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules/
+#   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
 
-url: http://www.avineshpvs.com
-name: Avinesh P.V.S.
-description: 'NLP Specialist &amp; Data Scientist, Adventure Freak and Traveler'
+author:
+  name: "Avinesh P.V.S"
+  bio: "NLP & ML Research Scientist, Adventurer and Traveller"
+  avatar: "/assets/portfolio.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://avineshpvs.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/avineshpvs"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/avineshpvs"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/avineshpvs"
 
-theme: jekyll-theme-minimal
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/avineshpvs"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/avineshpvs"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/avineshpvs"
+
+
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  pets:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

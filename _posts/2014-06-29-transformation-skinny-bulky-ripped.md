@@ -3,7 +3,7 @@ id: 623
 title: 'My Transformation: Skinny -> Bulky -> Ripped'
 date: 2014-06-29T05:52:22+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=623
 permalink: /transformation-skinny-bulky-ripped
 snap_isAutoPosted:

@@ -3,7 +3,7 @@ id: 895
 title: 'Comfort zone (Delhi) to the land of love (Punjab):'
 date: 2016-01-16T11:45:02+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=895
 permalink: /comfort-zone-delhi-to-the-land-of-love-punjab
 snap_isAutoPosted:

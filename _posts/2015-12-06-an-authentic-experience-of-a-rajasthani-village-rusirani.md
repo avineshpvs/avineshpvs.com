@@ -3,7 +3,7 @@ id: 988
 title: 'An authentic experience of a Rajasthani village: (Rusirani)'
 date: 2015-12-06T08:47:26+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=988
 permalink: /an-authentic-experience-of-a-rajasthani-village-rusirani
 snap_isAutoPosted:

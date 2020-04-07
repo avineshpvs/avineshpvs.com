@@ -3,7 +3,7 @@ id: 617
 title: Scuba Diving in India
 date: 2014-08-02T07:11:12+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=617
 permalink: /scuba-diving-india
 snap_isAutoPosted:

@@ -3,7 +3,7 @@ id: 99
 title: '&#8220;I believe I can fly&#8221; &#8211; Paragliding Course'
 date: 2013-04-01T06:38:43+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://avineshpvs.wordpress.com/?p=99
 permalink: /i-believe-i-can-fly-paragliding
 hits:

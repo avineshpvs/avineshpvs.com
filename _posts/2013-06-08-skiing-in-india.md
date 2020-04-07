@@ -3,7 +3,7 @@ id: 472
 title: Skiing in India
 date: 2013-06-08T06:54:51+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=472
 permalink: /skiing-in-india
 snap_isAutoPosted:

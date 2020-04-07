@@ -3,7 +3,7 @@ id: 595
 title: Scuba Diving in Havelock (Andaman)
 date: 2014-05-01T02:54:51+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=595
 permalink: /scuba-diving-havelock-andaman
 snap_isAutoPosted:

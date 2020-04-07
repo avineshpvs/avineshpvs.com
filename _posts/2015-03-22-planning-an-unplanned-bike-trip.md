@@ -3,7 +3,7 @@ id: 739
 title: Planning an unplanned Bike Trip
 date: 2015-03-22T17:54:13+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=739
 permalink: /planning-an-unplanned-bike-trip
 snap_isAutoPosted:

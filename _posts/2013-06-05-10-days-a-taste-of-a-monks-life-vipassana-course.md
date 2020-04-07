@@ -3,7 +3,7 @@ id: 416
 title: '10 days Vipassana: a taste of a monk&#8217;s life'
 date: 2013-06-05T03:50:12+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=416
 permalink: /10-days-a-taste-of-a-monks-life-vipassana-course
 snap_isAutoPosted:

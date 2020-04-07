@@ -3,7 +3,7 @@ id: 937
 title: Lost in search of a lost village (Kuldhara)
 date: 2015-09-07T05:35:27+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=937
 permalink: /lost-in-search-of-a-lost-village-kuldhara
 snap_isAutoPosted:

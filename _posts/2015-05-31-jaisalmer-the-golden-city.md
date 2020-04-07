@@ -3,7 +3,7 @@ id: 870
 title: 'Jaisalmer: The Golden City'
 date: 2015-05-31T05:10:18+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=870
 permalink: /jaisalmer-the-golden-city
 snap_isAutoPosted:

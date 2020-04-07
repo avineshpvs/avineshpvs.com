@@ -3,7 +3,7 @@ id: 1029
 title: Dera baba nanak paidal yatra
 date: 2016-10-02T10:18:53+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=1029
 permalink: /dera-baba-nanak-paidal-yatra
 snap_isAutoPosted:
@@ -18,7 +18,7 @@ snapDL:
   - 's:162:"a:1:{i:0;a:6:{s:2:"do";s:1:"1";s:10:"msgTFormat";s:7:"%TITLE%";s:9:"msgFormat";s:9:"%EXCERPT%";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doDL";s:1:"1";}}";'
 snapSU:
   - 's:345:"a:1:{i:0;a:11:{s:2:"do";s:1:"1";s:9:"msgFormat";s:19:"%TITLE% - %EXCERPT%";s:5:"suCat";s:11:"StumbleUpon";s:4:"nsfw";s:1:"0";s:9:"isAutoURL";s:1:"A";s:8:"urlToUse";s:0:"";s:4:"doSU";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:6:"2PxdpM";s:7:"postURL";s:45:"http://www.stumbleupon.com/su/2PxdpM/comments";s:5:"pDate";s:19:"2016-10-02 10:19:08";}}";'
-image: /wp-content/uploads/2016/10/IMG_20150305_035553742.jpg
+image: /wp-content/IMG_20150305_035553742.jpg
 categories:
   - LoneRider
   - Travel

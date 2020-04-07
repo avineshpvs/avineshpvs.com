@@ -3,7 +3,7 @@ id: 771
 title: 'LoneRider: Expecting the Unexpected'
 date: 2015-04-10T13:50:33+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=771
 permalink: /lonerider-expecting-the-unexpected
 snap_isAutoPosted:

@@ -3,7 +3,7 @@ id: 75
 title: 'Helping Hands > Praying Lips'
 date: 2010-02-13T13:58:51+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://avineshpvs.wordpress.com/?p=75
 permalink: /helping-hands-praying-lips
 dcssb_short_url:

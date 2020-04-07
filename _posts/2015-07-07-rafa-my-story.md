@@ -3,7 +3,7 @@ id: 898
 title: 'Rafa: My story'
 date: 2015-07-07T02:38:47+00:00
 author: Avi
-layout: post
+layout: single
 guid: http://www.avineshpvs.com/?p=898
 permalink: /rafa-my-story
 snap_isAutoPosted:
