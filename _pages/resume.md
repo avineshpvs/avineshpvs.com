@@ -3,7 +3,7 @@ id: 377
 title: Resume
 date: 2013-05-28T03:23:29+00:00
 author: Avi
-layout: page
+layout: single
 guid: http://www.avineshpvs.com/?page_id=377
 snap_MYURL:
   - ""
