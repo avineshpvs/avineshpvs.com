@@ -7,9 +7,46 @@ layout: single
 permalink: /dera-baba-nanak-paidal-yatra
 image: /wp-content/biketrip/derababa/derababa-gurudwara.jpg
 classes: wide
+excerpt: "**Guru ka speaker bole langar chakke jayo ji** 
+          (the speaker of the Guru says to eat the langar and then go on). 
+          These were the words which I could hear all the time during the 3 days of the Paidal yatra to Dera Baba Nanak.
+          Firstly, this yatra was the main reason I visited Punjab.
+          Every year, on the 1st of March, in the remembrance of Guru Nanak Devi Ji, the first Sikh Guru, 
+          this yatra is carried out by hundreds of thousands of people. "
+header:
+  teaser: wp-content/biketrip/derababa/derababa-gurudwara.jpg
 categories:
   - LoneRider
   - Travel
+gallery:
+  - url: /wp-content/biketrip/derababa/derababa-people.jpg
+    image_path: wp-content/biketrip/derababa/derababa-people.jpg
+    alt: "The journey with the religious battalion"
+  - url: /wp-content/biketrip/derababa/derababa-friend.jpg
+    image_path: wp-content/biketrip/derababa/derababa-friend.jpg
+    alt: "Take a break during the rain at Dera Baba Nanak"
+  - url: /wp-content/biketrip/derababa/derababa-gurudwara-rest.jpg
+    image_path: wp-content/biketrip/derababa/derababa-gurudwara-rest.jpg
+    alt: "Resting at the Mukerian gurdwara"
+  - url: /wp-content/biketrip/derababa/derababa-sunset.jpg
+    image_path: wp-content/biketrip/derababa/derababa-sunset.jpg
+    alt: "Morning sunrise"
+  - url: /wp-content/biketrip/derababa/derababa-langar.jpg
+    image_path: wp-content/biketrip/derababa/derababa-langar.jpg
+    alt: "People pleading to have langar"
+  - url: /wp-content/biketrip/derababa/derababa-border2.jpg
+    image_path: wp-content/biketrip/derababa/derababa-border2.jpg
+    alt: "Dera Baba Nanak Gurudwara"
+  - url: /wp-content/biketrip/derababa/derababa-border.jpg
+    image_path: wp-content/biketrip/derababa/derababa-border.jpg
+    alt: "At the border of Pakistan"
+  - url: /wp-content/biketrip/derababa/derababa-border.jpg
+    image_path: wp-content/biketrip/derababa/derababa-gurudwara-rest.jpg
+    alt: "Resting at the Mukerian gurdwara"
+  - url: /wp-content/biketrip/derababa/derababa-with-all.jpg
+    image_path: wp-content/biketrip/derababa/derababa-with-all.jpg
+    alt: "With the gang at the border"
+    
 ---
 ![image-center](/wp-content/biketrip/derababa/derababa-gurudwara.jpg){:.align-center height="250px" width="400px"}
  
@@ -35,11 +72,9 @@ When I told my host that I would like to walk the distance he was a shocked and 
 He advised to go on a motorbike but I insisted on going with the religious battalion. 
 I chose to do this, firstly to have a first-hand experience and secondly to test my endurance. 
 
-![image-center](/wp-content/biketrip/derababa/derababa-people.jpg){:.align-center height="250px" width="700px"}
-
-  <p align="center">
-    The journey with the religious battalion
-  </p>
+<p align="center">
+{% include gallery caption="The journey with the religious battalion" %}
+</p>
 
 On the first day, we started at around 8:00 am after having breakfast at the Dasuya gurdwara. 
 There were 2 official vehicles one jeep carrying the local guru with some important people and 
@@ -55,46 +90,25 @@ with the rest of the group. People were offering us food all throughout our jour
  My body was completely drained from the physical exhaustion. We took a spot at one corner of the gurdwara 
  and I just fell asleep like a baby. 
 
-![image-center](/wp-content/biketrip/derababa/derababa-friend.jpg){:.align-center height="250px" width="700px"}
-
-  <p align="center">
-    Take a break during the rain at Dera Baba Nanak
-  </p>
-
-
-![image-center](/wp-content/biketrip/derababa/derababa-gurudwara-rest.jpg){:.align-center height="250px" width="700px"}
- 
-  <p align="center">
-    Resting at the Mukerian gurdwara
-  </p>
-
 The second day, we woke up early to finish the necessary stuff before it got crowded. We had our breakfast and we set out for a long journey ahead at 5:00 am. It was dark and I was still feeling sleepy. There was no way I could escape but I am known to sleep in adverse situations (behind a bike, sleeping in buses). This time, it was a bit more adverse as I had to walk. Added to my adversity, a woman gave me a huge stick with a flag and asked me to carry it. I was carrying this huge flag with a bunch of other people behind the vehicles and was literally sleep walking. After an hour or so, I managed to hand over the flag to another person and moved in front of the vehicles to walk with the volunteers. As we were in the region of Gurdaspur, police started escorting us as there were too many people on the road. I was volunteering in the front to make way for the vehicles. I happened to make conversation with the police staff and they were really friendly. Everyone was quite surprised that I came to Punjab on a motorbike from the southern part of India. After a long tiring day, we happened to reach the gurdwara at around 6 pm, had our dinner and slept off. 
 
-![image-center](/wp-content/biketrip/derababa/derababa-sunset.jpg){:.align-center height="250px" width="700px"}
+The third day, our journey started at the similar time, my host was really tired and he suggested to hitchhike in a trolley.
+I just agreed with him although I wanted to complete the journey I started. 
+So, after roughly 75km of walking we decided to finish the last leg of the journey taking a trolley. 
+Interestingly, the owner of the trolley was also from the same village as my host and he happily agreed to accommodate us. 
+At around 5 pm we reached Dera Baba Nanak and gave a visit to the main gurdwara. 
+It was the second best gurdwara I saw after Golden Temple. 
+We tried to find some accommodation in the gurdwara but it was full. 
+So, we decided to sleep in the trolley. 
+It was extremely cold and we didn’t have a lot of protection. The night passed by and we woke up early in the morning at 3 am. 
+The toilets were not of the best conditions but as a traveller one has to be adjusting ([I managed in a dessert](/lonerider-expecting-the-unexpected) :)). 
+We took a shower near the lake and went for a morning visit to the gurdwara and had langar. 
+We came back and rested for a while. 
+At around 10 we visited the Chola Sahib and went to have a glimpse of the Kartarpur Gurudwara in Pakistan. 
+Yet again I had goosebumps when I saw the Pakistan border (may be the feeling of being an Indian). 
+Later, we visited the Tanot Devi Mata temple built after the temple in Jaisalmer, where the Pakistani missiles didn’t explode.
+After all the important visitings, we started our return journey and reached our village in the evening. 
 
-  <p align="center">
-    Morning sunrise
-  </p>
-
-![image-center](/wp-content/biketrip/derababa/derababa-langar.jpg){:.align-center height="250px" width="700px"}
-  
-  <p align="center">
-    People pleading to have langar
-  </p>
-
-The third day, our journey started at the similar time, my host was really tired and he suggested to hitchhike in a trolley. I just agreed with him although I wanted to complete the journey I started. So, after roughly 75km of walking we decided to finish the last leg of the journey taking a trolley. Interestingly, the owner of the trolley was also from the same village as my host and he happily agreed to accommodate us. At around 5 pm we reached Dera Baba Nanak and gave a visit to the main gurdwara. It was the second best gurdwara I saw after Golden Temple. We tried to find some accommodation in the gurdwara but it was full. So, we decided to sleep in the trolley. It was extremely cold and we didn’t have a lot of protection. The night passed by and we woke up early in the morning at 3 am. The toilets were not of the best conditions but as a traveller one has to be adjusting ([I managed in a dessert](http://www.avineshpvs.com/lonerider-expecting-the-unexpected) :)). We took a shower near the lake and went for a morning visit to the gurdwara and had langar. We came back and rested for a while. At around 10 we visited the Chola Sahib and went to have a glimpse of the Kartarpur Gurudwara in Pakistan. Yet again I had goosebumps when I saw the Pakistan border (may be the feeling of being an Indian). Later, we visited the Tanot Devi Mata temple built after the temple in Jaisalmer, where the Pakistani missiles didn’t explode. After all the important visitings, we started our return journey and reached our village in the evening. 
-
-![image-center](/wp-content/biketrip/derababa/derababa-border2.jpg){:.align-center height="250px" width="700px"}
-
-  <p align="center">
-    Dera Baba Nanak Gurudwara
-  </p>
-
-![image-center](/wp-content/biketrip/derababa/derababa-border.jpg){:.align-center height="250px" width="700px"}
- 
-  <p align="center">
-    At the border of Pakistan
-  </p>
 
 These were 3 amazing days of my life. 
 I got to experience many things although it was physically and mentally challenging. 
