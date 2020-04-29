@@ -4,10 +4,8 @@ title: 'Hope -> Expectation -> Desperation -> Sadness'
 date: 2008-09-15T14:22:25+00:00
 author: Avinesh P.V.S
 permalink: /hope-expectation-desperation-sadness
+classes: wide
 categories:
-  - Blog
-tags:
-  - Blog
   - Philosophy
 ---
 

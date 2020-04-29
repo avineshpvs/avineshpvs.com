@@ -5,8 +5,9 @@ date: 2009-02-05T06:49:32+00:00
 author: Avinesh P.V.S
 permalink: /am-i-a-child-or-an-adult
 image: /wp-content/always_child.jpg
+classes: wide
 categories:
-  - Blog
+  - Philosophy
 ---
 ![image-center](/wp-content/always_child.jpg){: .align-center}
 The most common question that youngsters ask themselves **"Am I a CHILD or an ADULT?"**. 

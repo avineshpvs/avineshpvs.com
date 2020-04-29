@@ -5,10 +5,8 @@ date: 2009-04-27T06:56:51+00:00
 author: Avinesh P.V.S
 permalink: '/equality-freedom'
 image: /wp-content/boysvsgirls.jpg
+classes: wide
 categories:
-  - Blog
-tags:
-  - Blog
   - Philosophy
 ---
 ![image-center](/wp-content/boysvsgirls.jpg){: .align-center}

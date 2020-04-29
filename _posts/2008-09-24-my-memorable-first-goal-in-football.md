@@ -5,10 +5,8 @@ date: 2008-09-24T11:03:38+00:00
 author: Avinesh P.V.S
 permalink: /my-memorable-first-goal-in-football
 image: /wp-content/owngoal.jpg
+classes: wide
 categories:
-  - Blog
-tags:
-  - Blog
   - Sports
 ---
 

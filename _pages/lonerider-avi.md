@@ -5,6 +5,7 @@ date: 2015-02-23T11:12:59+00:00
 author: Avinesh P.V.S
 layout: single
 author_profile: true
+classes: wide
 ---
 This page is about my journey across India meeting new people and understanding different cultures. This idea sparked in me when I was backpacking across Europe. I met couple of Europeans who had more knowledge about India compared to me. I felt bad that being an Indian I didn’t see as much as the Europeans. That is when I decided to ride across India. 
 
@@ -34,7 +35,7 @@ In few words I have a rough plan in mind but it will be enhanced on the go. For 
 **How are you planning to sustain yourself in terms of money?**  
     I will be freelancing so that I keep my cash reserve intact. My specialisation is in NLP, Data mining, Machine learning and Python.
     
- **How long is the trip?**  
+**How long is the trip?**  
     Completely undefined. The trip might end when I get bored or when I am out of cash or when I get my PhD admit. 
 
 Stay tuned to know more about what all things I am carrying and numerous travel stories. If you want to be posted about my travel stories do like my [LoneRider Facebook page](https://www.facebook.com/loneriderAvi).

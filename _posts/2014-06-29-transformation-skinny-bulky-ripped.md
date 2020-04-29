@@ -1,51 +1,53 @@
 ---
-id: 623
+id: 13
 title: 'My Transformation: Skinny -> Bulky -> Ripped'
 date: 2014-06-29T05:52:22+00:00
-author: Avi
-layout: single
-guid: http://www.avineshpvs.com/?p=623
+author: Avinesh P.V.S.
 permalink: /transformation-skinny-bulky-ripped
-snap_isAutoPosted:
-  - "1"
-wpsd_autopost:
-  - "1"
-snap_MYURL:
-  - ""
-snapEdIT:
-  - "1"
-snapDL:
-  - 's:242:"a:1:{i:0;a:7:{s:4:"doDL";s:1:"1";s:11:"SNAPformatT";s:7:"%TITLE%";s:10:"SNAPformat";s:9:"%EXCERPT%";s:11:"isPrePosted";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:32:"19d8519fa22241fd5e06eeff0dfc3cba";s:5:"pDate";s:19:"2014-06-29 05:53:01";}}";'
-snapSU:
-  - 's:317:"a:1:{i:0;a:9:{s:4:"doSU";s:1:"1";s:7:"apSUCat";s:11:"StumbleUpon";s:4:"nsfw";s:1:"0";s:10:"SNAPformat";s:19:"%TITLE% - %EXCERPT%";s:11:"isPrePosted";s:1:"1";s:8:"isPosted";s:1:"1";s:4:"pgID";s:6:"5hMGpI";s:7:"postURL";s:50:"http://www.stumbleupon.com/content/5hMGpI/comments";s:5:"pDate";s:19:"2014-06-29 05:53:08";}}";'
-image: /wp-content/uploads/2014/06/Before-After-Pics.jpg
+image: /wp-content/before-after-pics.jpg
+classes: wide
 categories:
-  - Blog
-tags:
   - Fitness
-  - Ripped Body
-  - Six Pack
 ---
-<div id="attachment_624" style="width: 610px" class="wp-caption aligncenter">
-  <a href="https://i0.wp.com/www.avineshpvs.com/wp-content/uploads/2014/06/Before-After-Pics.jpg" data-rel="lightbox-0" data-imagelightbox="0" title=""><img src="https://i0.wp.com/www.avineshpvs.com/wp-content/uploads/2014/06/Before-After-Pics.jpg?resize=600%2C287" alt="Transformation: Before After Pics" class="size-medium wp-image-624" srcset="https://i0.wp.com/www.avineshpvs.com/wp-content/uploads/2014/06/Before-After-Pics.jpg?resize=600%2C287 600w, https://i0.wp.com/www.avineshpvs.com/wp-content/uploads/2014/06/Before-After-Pics.jpg?resize=1024%2C490 1024w, https://i0.wp.com/www.avineshpvs.com/wp-content/uploads/2014/06/Before-After-Pics.jpg?w=2000 2000w, https://i0.wp.com/www.avineshpvs.com/wp-content/uploads/2014/06/Before-After-Pics.jpg?w=3000 3000w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" /></a>
-  
-  <p class="wp-caption-text">
-    Transformation: Before After Pics
-  </p>
-</div>
 
-Before starting I want to tell that I am not an Actor, I am not a Fitness model, I am not a Fitness guru. I have a day job which I love and fitness has always been one of the important things in my life. I am not writing this to show off, I am writing mainly because I want to share my journey and even if I motivate one person at the end of the day I will be a happy man.
+![image-center](/wp-content/before-after-pics.jpg)
+Before starting I want to tell that I am not an Actor, I am not a Fitness model, I am not a Fitness guru. 
+I have a day job which I love and fitness has always been one of the important things in my life. 
+I am not writing this to show off, I am writing mainly because I want to share my journey and even if I motivate one person at the end of the day I will be a happy man.
 
-<!--more-->
-
-I tried to think of all types of cheesy titles for this blog post namely “3 Tips for Six pack abs”, “3 Mistakes that people do”, etc. Then I realized there is no good way to write a blog than in a set of Question Answer pairs. These questions were asked by newbies and by people hitting gym for some years. These questions are completely valid as there is a lot of information on the web and it is easy to get confused. Coming from a research background I always had the inquisitiveness to read material, analyze and experiment. Fitness is a big research topic in itself.
+I tried to think of all types of cheesy titles for this blog post namely “3 Tips for Six pack abs”, “3 Mistakes that people do”, etc. 
+Then I realized there is no good way to write a blog than in a set of Question Answer pairs. 
+These questions were asked by newbies and by people hitting gym for some years. 
+These questions are completely valid as there is a lot of information on the web and it is easy to get confused. 
+Coming from a research background I always had the inquisitiveness to read material, analyze and experiment. 
+Fitness is a big research topic in itself.
 
 Small introduction about myself so that you can have an understanding of my transformation better.
 
 **Introduction:**  
-Well I had been a long distance runner since childhood and was into sports (swimming, cricket, tennis, badminton) since a young age. I started off with 4km run when I was young. My dad used to wake us up in the morning and leave us near school. We had to run back home in time to get ready and catch the school bus. Thanks to my Dad (a sportsman himself) for instilling the fitness bug in me. Fast-forward, at college too I had always been a jack of all trades since I had good fitness but never tried to master a sport. So you might have guessed by now that the first picture clearly depicts me, I was really skinny. I started of hitting gym for a strange reason. I wanted to distract myself from the emotional discomfort that I was going through and I found my peace in GYM. 
+Well I had been a long distance runner since childhood and was into sports (swimming, cricket, tennis, badminton) since a young age. 
+I started off with 4km run when I was young. 
+My dad used to wake us up in the morning and leave us near school. 
+We had to run back home in time to get ready and catch the school bus. 
+Thanks to my Dad (a sportsman himself) for instilling the fitness bug in me. 
+Fast-forward, at college too I had always been a jack of all trades since I had good fitness but never tried to master a sport. 
+So you might have guessed by now that the first picture clearly depicts me, I was really skinny. 
+I started of hitting gym for a strange reason. 
+I wanted to distract myself from the emotional discomfort that I was going through and I found my peace in GYM. 
 
-I read some routines on the web and I started hitting gym regularly. I used to train with couple of buddies namely “Abhijeet”, “Akthar&#8221;, who always helped me to push further. After these two guys I never had a training partner because it was difficult to have a common schedule and I used to experiment with different routines. So with in a couple of months I gained weight. My arms, chest, legs and shoulders became big. I got my confidence back. But the only thing I always wanted was a six-pack and a ripped physique. My only problem was consistency. I had been a freelancer and I used to travel and party hard. As a result the second picture above, accumulated lot of fat around my waist. After joining the corporate world, I have settled down a bit now and the best chance for me to keep it rolling for my dream of a ripped body (still not completely their). 3 months of hard work and yes I made it here. Still challenging myself for more aesthetic look. 
+I read some routines on the web and I started hitting gym regularly. 
+I used to train with couple of buddies namely "Abhijeet", “Akthar", who always helped me to push further. 
+After these two guys I never had a training partner because it was difficult to have a common schedule and I used to experiment with different routines. 
+So with in a couple of months I gained weight. 
+My arms, chest, legs and shoulders became big. 
+I got my confidence back. 
+But the only thing I always wanted was a six-pack and a ripped physique. 
+My only problem was consistency. 
+I had been a freelancer and I used to travel and party hard. 
+As a result the second picture above, accumulated lot of fat around my waist. 
+After joining the corporate world, I have settled down a bit now and the best chance for me to keep it rolling for my dream of a ripped body (still not completely their). 
+3 months of hard work and yes I made it here. 
+Still challenging myself for more aesthetic look. 
 
 Its been 6 years now and I am preparing myself for the upcoming challenges. 
 
@@ -68,55 +70,86 @@ Arnold Schwarzenegger when I started, now it is [Lazar Angelov](http://www.lazar
 
 **3 key things for fitness:**
 
-**1) Consistency/Persistence:**  
-Rome was not built in a day. I have had friends who tell me dude “I am hitting the gym and I am not getting any results”. My first question to them was how many days are you working out. They would say 2 times or 3 times on and off. If you are not consistent enough about your routine and diet you are not going to achieve results even if you have the best personal trainer and the best workout program. Only thing you will be doing is wasting 5k every month in drain.
+  * **Consistency/Persistence:**  
+    Rome was not built in a day. 
+    I have had friends who tell me dude “I am hitting the gym and I am not getting any results”. 
+    My first question to them was how many days are you working out. 
+    They would say 2 times or 3 times on and off. 
+    If you are not consistent enough about your routine and diet you are not going to achieve results even if you have the best personal trainer and the best workout program. 
+    Only thing you will be doing is wasting 5k every month in drain.
+    
+    Tip: Best way to keep record and be accountable is to maintain a workout log. 
 
-Tip: Best way to keep record and be accountable is to maintain a workout log. 
+  * **Diet:**  
+    Diet contributes 50% to a great physique. 
+    If you eat unhealthy then you will not get results. 
+    I was eating healthy most of the days but I was taking high protein diet for couple of months but I was never reaching my desired physique. 
+    Then I realised I was eating more than what I needed.
+    Whatever excess calorie I am taking was becoming fat.
+    Always have a balanced meal (carbs 40%, protein 50%, essential fats 10%) and of course the micro nutrients (greens and salads). 
+    Will get in details about my meal plan later.
 
-**2) Diet:**  
-Diet contributes 50% to a great physique. If you eat unhealthy then you will not get results. I was eating healthy most of the days but I was taking high protein diet for couple of months but I was never reaching my desired physique. Then I realised I was eating more than what I needed. Whatever excess calorie I am taking was becoming fat. Always have a balanced meal (carbs 40%, protein 50%, essential fats 10%) and of course the micro nutrients (greens and salads). Will get in details about my meal plan later.
+  * **No pain No gain:**  
+    You have to strain your muscle to gain muscle. 
+    If you look cute after your workout then you have not worked out enough. 
+    Of course you need to keep your workout interesting, mix it up every month. 
+    Just keep away from plateau by challenging yourself.
 
-**3) No pain No gain:**  
-You have to strain your muscle to gain muscle. If you look cute after your workout then you have not worked out enough. Of course you need to keep your workout interesting, mix it up every month. Just keep away from plateau by challenging yourself.
-
-**Bulking up or Loosing Fat?**
-
-This is one of the most debatable questions in the fitness world. I still think it is doable if you keep your diet a bit calorie deficit and protein intensive. It worked out for me. 
+  * **Bulking up or Loosing Fat?**
+    This is one of the most debatable questions in the fitness world. 
+    I still think it is doable if you keep your diet a bit calorie deficit and protein intensive.
+    It worked out for me. 
 
 **How long do you workout in Gym?**
 
-Roughly around 45-1hr. I usually don’t chat around in Gym mainly because it keeps me concentrated and allows me to finish my routine in time. I sometimes keep ear phones without any music just to make sure no one disturbs me. To get ripped I sometimes do HIIT in the morning for 20 mins with some calisthenics routine.
+Roughly around 45-1hr. I usually don’t chat around in Gym mainly because it keeps me concentrated and allows me to finish my routine in time. 
+I sometimes keep ear phones without any music just to make sure no one disturbs me. 
+To get ripped I sometimes do HIIT in the morning for 20 mins with some calisthenics routine.
 
 **Do you take supplements?**  
-Most people ask me this question as if you take supplements and by magic you become ripped. This is a common misconception about supplements (protein shakes). Supplements by the name itself suggests if you cannot get protein in your meals then they are used to supplement them. If you can get the required amount of protein (1/1.5 x Your Body weight gm) from your meals then you would not need them. I tried a couple of months without protein powder replacing them with eggs and meat. It was good, I saw results but it became too boring for me. Protein shakes are quite handy and easy to have if you don’t have time for your meal. Last but not the least you need to workout, eating protein will not make you ripped and strong.
+Most people ask me this question as if you take supplements and by magic you become ripped. 
+This is a common misconception about supplements (protein shakes). 
+Supplements by the name itself suggests if you cannot get protein in your meals then they are used to supplement them. 
+If you can get the required amount of protein (1/1.5 x Your Body weight gm) from your meals then you would not need them. 
+I tried a couple of months without protein powder replacing them with eggs and meat. 
+It was good, I saw results but it became too boring for me. 
+Protein shakes are quite handy and easy to have if you don’t have time for your meal. 
+Last but not the least you need to workout, eating protein will not make you ripped and strong.
 
 **Where to you buy protein supplements?**  
 <a href="http://www.healthkart.com/" title="Healthkart" target="_blank">Healthkart.com</a>:  
-I usually prefer <a href="http://www.healthkart.com/sv/on-%28optimum-nutrition%29-gold-standard-100-whey-protein/SP-9558?navKey=VRNT-14662&#038;ac_sel=ON%20%28Optimum%20Nutrition%29%20Gold%20Standard%20100%25%20Whey%20Protein%2C%20%20Double%20Rich%20Chocolate%20%205%20lb" title="Gold standard Whey" target="_blank">ON Gold Standard Whey Protein</a> for good results. If you can spend some cash you can go for <a href="http://www.healthkart.com/sv/ultimate-nutrition-iso-sensation-93/SP-9930?navKey=VRNT-15421&#038;ac_sel=Ultimate%20Nutrition%20ISO%20Sensation%2093%2C%20%20Strawberry%20%205%20lb" title="ISO sensation" target="_blank">Ultimate Nutrition ISO Sensation</a> or <a href="http://www.healthkart.com/sv/natures-best-isopure-zero-carb/SP-8623?navKey=VRNT-13348&#038;ac_sel=Nature%27s%20Best%20Isopure%20Zero%20Carb%2C%20%20Strawberries%20%26%20Cream%20%203%20lb" title="ISO Pure" target="_blank">Nature&#8217;s Best ISOPure</a>.
+I usually prefer <a href="http://www.healthkart.com/sv/on-%28optimum-nutrition%29-gold-standard-100-whey-protein/SP-9558?navKey=VRNT-14662&#038;ac_sel=ON%20%28Optimum%20Nutrition%29%20Gold%20Standard%20100%25%20Whey%20Protein%2C%20%20Double%20Rich%20Chocolate%20%205%20lb" title="Gold standard Whey" target="_blank">ON Gold Standard Whey Protein</a> for good results. 
+If you can spend some cash you can go for <a href="http://www.healthkart.com/sv/ultimate-nutrition-iso-sensation-93/SP-9930?navKey=VRNT-15421&#038;ac_sel=Ultimate%20Nutrition%20ISO%20Sensation%2093%2C%20%20Strawberry%20%205%20lb" title="ISO sensation" target="_blank">Ultimate Nutrition ISO Sensation</a> or <a href="http://www.healthkart.com/sv/natures-best-isopure-zero-carb/SP-8623?navKey=VRNT-13348&#038;ac_sel=Nature%27s%20Best%20Isopure%20Zero%20Carb%2C%20%20Strawberries%20%26%20Cream%20%203%20lb" title="ISO Pure" target="_blank">Nature&#8217;s Best ISOPure</a>.
 
 **Where to start reading and know about workout routines?**
 
-<a href="http://www.bodybuilding.com/" title="Bodybuiliding " target="_blank">Bodybuilding.com:</a> It has lots of information. It has routines by some good fitness gurus. You can choose one of them and follow them consistently.  
-<a href="http://www.cutandjacked.com/" title="CutandJacked" target="_blank">CutandJacked</a>: Contains interviews from fitness models to fitness gurus. Also contains routines, diet programs and many interesting articles.
+<a href="http://www.bodybuilding.com/" title="Bodybuiliding " target="_blank">Bodybuilding.com:</a> It has lots of information. 
+It has routines by some good fitness gurus. 
+You can choose one of them and follow them consistently.  
+<a href="http://www.cutandjacked.com/" title="CutandJacked" target="_blank">CutandJacked</a>: Contains interviews from fitness models to fitness gurus. 
+Also contains routines, diet programs and many interesting articles.
 
 **For diet:**  
-<a href="https://www.youtube.com/channel/UCUw7LDOFPw_tvp1isz5IEvQ" title="CutandJacked Youtube link" target="_blank">CutandJacked Diet Kitchen</a>: To make interesting recipes and and not fed of eating the usual stuff. Not all fitness freaks eat bland food. Healthy food can be made tasty too.
+<a href="https://www.youtube.com/channel/UCUw7LDOFPw_tvp1isz5IEvQ" title="CutandJacked Youtube link" target="_blank">CutandJacked Diet Kitchen</a>: To make interesting recipes and and not fed of eating the usual stuff. 
+Not all fitness freaks eat bland food. 
+Healthy food can be made tasty too.
 
 **Whats your workout plan?**
 
-Monday &#8211; Chest/Tricep + 10 mins (Abs routine)  
-Tuesday &#8211; Back/Bicep  
-Wednesday &#8211; Legs + 10 mins (Abs routine)  
-Thursday &#8211; Shoulders  
-Friday &#8211; Arms (Bicep/Tricep/Forearms) + 10 mins (Abs routine)  
-Saturday &#8211; Legs (or) Trek
+Mon: Chest/Tricep + 10 mins (Abs routine)  
+Tue: Back/Bicep  
+Wed: Legs + 10 mins (Abs routine)  
+Thu: Shoulders  
+Fri: Arms (Bicep/Tricep/Forearms) + 10 mins (Abs routine)  
+Sat: Legs (or) Trek
 
-To spice it up I sometimes make some changes here and there with Calisthenics workout (Body weight training). Also when I don’t get time to hit gym I just do body weight training at home.
+To spice it up I sometimes make some changes here and there with Calisthenics workout (Body weight training). 
+Also when I don’t get time to hit gym I just do body weight training at home.
 
 **What do you eat? Diet plan?**
 
 **Cutting Down:**  
-Meal 0 : Green Tea + Lemon + Honey (very little) (or) Green Juice (Spinach, Wheat grass, Mint)  
+Meal 0: Green Tea + Lemon + Honey (very little) (or) Green Juice (Spinach, Wheat grass, Mint)  
 Meal 1: Muesli + Milk + 1 scoop Protein + Half banana  
 Meal 2: Half Pomegranate + Sprouts + Dry fruits (Dates, Walnuts, Pista, Almonds)  
 Meal 3: 1 handful rice/lettuce + Chicken + Beans + Vegetables  
@@ -132,20 +165,34 @@ When I try to bulk up I try to add some more Carbs and Proteins in meals 3 and 5
 **3 Things to stay away from in your Diet?**
 
 **1) Sugar/Too much fruits:**  
-Lot of people try diets like only fruits and say they are not loosing weight. Even if you eat fruits if you eat calorie surplus then you will gain weight. Sugars are a big NO. I usually don’t recommend cheat days because it usually spoils routines. If you can stick to them its up to you.
+Lot of people try diets like only fruits and say they are not loosing weight. 
+Even if you eat fruits if you eat calorie surplus then you will gain weight. 
+Sugars are a big NO. 
+I usually don’t recommend cheat days because it usually spoils routines. 
+If you can stick to them its up to you.
 
 **2) Too much carbohydrates:**  
-Especially for people who do jobs sitting in front of laptops, we don’t require as much carbohydrates we usually eat. It just converts to unnecessary fat. Especially Indians we need Roti or Rice in every meal. We eat 3 meals but just gulp a lot. When I told my mother I was cutting down Roti and Rice from my meals she thought I was crazy. Simple rule be calorie deficit to cut down.
+Especially for people who do jobs sitting in front of laptops, we don’t require as much carbohydrates we usually eat. 
+It just converts to unnecessary fat. 
+Especially Indians we need Roti or Rice in every meal. 
+We eat 3 meals but just gulp a lot. 
+When I told my mother I was cutting down Roti and Rice from my meals she thought I was crazy. 
+Simple rule be calorie deficit to cut down.
 
 **3) Fats:**  
 Essential fats are necessary but it is always good to stay away from fried foods. 
 
 _* If you can burn the calories you eat then well and good, you can eat anything._
 
-**Whats my next fitness challenge?**
+**What is my next fitness challenge?**
 
-I enrolled for <a href="http://fitnessfightclub.com/" title="Fitness Fight Club" target="_blank">Fitness Fight Club</a> from Monday. It has always been my dream to learn Muay Thai, Boxing and MMA. Glad that I have this gym next to my office. I am going for more conditioning, flexibility and reflexes. I will review about the Gym once I train with them for at least a month. I still have Marathon and Triathlon to check off my <a href="http://www.avineshpvs.com/101-bucket-list" title="Bucketlist" target="_blank">bucket list</a>. 
+I enrolled for <a href="http://fitnessfightclub.com/" title="Fitness Fight Club" target="_blank">Fitness Fight Club</a> from Monday. 
+It has always been my dream to learn Muay Thai, Boxing and MMA. 
+Glad that I have this gym next to my office. 
+I am going for more conditioning, flexibility and reflexes. 
+I will review about the Gym once I train with them for at least a month. 
+I still have Marathon and Triathlon to check off my <a href="http://www.avineshpvs.com/101-bucket-list" title="Bucketlist" target="_blank">bucket list</a>. 
 
 If you have any questions feel free to contact me or write in the comments section below.
-
-* I am not perfect, always ready to learn and change things. Thats how life works.
+I am not perfect, always ready to learn and change things. 
+That's how life works.

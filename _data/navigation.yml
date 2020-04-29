@@ -1,7 +1,9 @@
 # main links
 main:
+  - title: "Home"
+    url: /index
   - title: "Blog"
-    url: /_pages/blog
+    url: /blog/
   - title: "LoneRider"
     url: /_pages/lonerider-avi
   - title: "101 Bucket List"

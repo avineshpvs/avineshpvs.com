@@ -5,10 +5,8 @@ date: 2008-10-04T13:22:06+00:00
 author: Avinesh P.V.S.
 permalink: /reducing-the-generation-gap
 image: /wp-content/dadson.jpg
+classes: wide
 categories:
-  - Blog
-tags:
-  - Blog
   - Philosophy
 ---
 

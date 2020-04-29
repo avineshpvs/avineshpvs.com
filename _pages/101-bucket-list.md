@@ -5,6 +5,7 @@ date: 2013-04-24T19:22:25+00:00
 author: Avinesh P.V.S
 layout: single
 author_profile: true
+classes: wide
 ---
 The so-called 101 Bucket List &#8211; 101 things that I would like to do in my lifetime. I planned for a while to create a bucket list. The idea came when I was actually thinking about my goals/wishes which I fulfilled by the end of the year 2012. Then I realised it&#8217;s really hard to keep note of them. A bucket list is actually a list of things that I want to accomplish. 
 
@@ -18,35 +19,32 @@ It is said that if we publicise our goals and make people hold us accountable, o
 
 (3) <del datetime="2015-05-24T06:42:35+00:00">Go on a road trip.</del> (2015, Feb-May)  
 
-  ![image-center](/wp-content/bike_trip.jpg){: .align-center}
-
-  <p>
+  ![image-center](/wp-content/biketrip/bike_trip.jpg){: .align-center height="250px" width="600px"}
+  <p align="center">
     An unplanned bike trip across 4 states.
   </p>
 
-<a href="http://www.avineshpvs.com/travel/lonerider" target="_blank">Read more at LoneRider Diaries</a>
+<a href="/posts/lonerider" >Read more at LoneRider Diaries</a>
 
 **Fitness Goals:**
 
   * (4) <del datetime="2013-04-24T18:15:11+00:00">Run a Half Marathon</del>. (2010,12 &#8211; Mumbai, 2009-2011 Hyderabad, 2014 Kaveri Trail)
   
-  ![image-center](/wp-content/half_marathon.jpg){: .align-center}
-     
-  <p>
+  ![image-center](/wp-content/half_marathon.jpg){: .align-center height="250px" width="300px"}
+  <p align="center">
     Kaveri Trail Half Marathon (Timing: 1:55:07)
   </p>
 
   * (5) Run a Marathon. 
   * (6) <del datetime="2015-05-24T06:42:35+00:00">Run a Triathlon. </del>
   
-  ![image-center](/wp-content/hyderabad_triathlon.jpg){: .align-center}
-  
-  <p>
-    First Olympic Triathlon<br />(Timing: 4:15:07)
+  ![image-center](/wp-content/hyderabad_triathlon.jpg){: .align-center height="250px" width="600px"}
+  <p align="center">
+    First Olympic Triathlon (Timing: 4:15:07)
   </p>
    
-  ![image-center](/wp-content/triathlon_timing.png){: .align-center}
-  <p>
+  ![image-center](/wp-content/triathlon_timing.png){: .align-center height="250px" width="400px"}
+  <p align="center">
     1st Olympic Triathlon Timing
   </p>
 
@@ -54,9 +52,8 @@ It is said that if we publicise our goals and make people hold us accountable, o
   * (7) Run an Ironman. 
   * (8) <del datetime="2015-05-24T06:42:35+00:00">Six pack abs.</del> 
   
-  ![image-center](/wp-content/six_pack.jpg){: .align-center}
-
-  <p class="wp-caption-text">
+  ![image-center](/wp-content/six_pack.jpg){: .align-center height="250px" width="400px"}
+  <p align="center">
     Six Pack abs
   </p>
   
@@ -66,14 +63,16 @@ It is said that if we publicise our goals and make people hold us accountable, o
 **Travel:**
 
   * (11) Seven Wonders of the world 
-  * (12) 150 countries &#8211; [19 countries till now!!](/_pages/countries-visited)
+  * (12) 150 countries &#8211; (32 countries till now!!)
   * (13) 7 continents  
     (Africa, Antartica, <del datetime="2013-04-24T18:15:11+00:00">Asia</del>, Australia, <del datetime="2013-04-24T18:15:11+00:00">Europe</del>, North America, South America) 
+
+<a href="https://cmoreira.net/visited-countries-map/?vcstitle=Countries%20Visited&inacolor=%23e0e0e0&actcolor=%236699cc&vcscountries=IN,JP,MY,SG,TH,AE,AT,BE,CZ,FR,DE,HU,IT,LU,NL,NO,PT,RO,RS,SI,ES,SE,CH,GB,CA,US,BR,CO,AU&">Countries visited</a>
 
  **Top 10 Famous Events:**
 
   * (14) San Fermin, Run with the Bulls (Pamplona, Spain)
-  * (15) <del datetime="2013-04-24T18:15:11+00:00">Oktoberfest</del>t (Munich, Germany)
+  * (15) <del datetime="2013-04-24T18:15:11+00:00">Oktoberfest</del> (Munich, Germany)
   * (16) Fringe Festival (Edinburgh, Scotland)
   * (17) Burning Man (Nevada, U.S.A.)
   * (18) Carnival (Rio de Janeiro, Brazil)
@@ -91,9 +90,8 @@ It is said that if we publicise our goals and make people hold us accountable, o
   * (27) Learn to Sail
   * (28) <del datetime="2015-05-24T06:42:35+00:00">Scuba diving PADI License</del>.
 
-    ![image-center](/wp-content/scuba1.jpg){: .align-center}
-    
-  <p>
+  ![image-center](/wp-content/scuba/scuba-preview.jpg){: .align-center height="250px" width="600px"}
+  <p align="center">
     Scuba diving in India
   </p>
 
@@ -102,8 +100,11 @@ It is said that if we publicise our goals and make people hold us accountable, o
   * (31) <del datetime="2013-04-24T18:15:11+00:00">Surfing</del> (2012, Santander, Spain, 7 days course)
   * (32) <del datetime="2015-05-24T06:42:35+00:00">Bungee Jump</del>
   
-  <iframe width="480" height="360" src="https://www.youtube.com/embed/pZi6aE2iglM" frameborder="0"> </iframe>
-
+  <iframe width="480" height="360" src="https://www.youtube.com/embed/pZi6aE2iglM" frameborder="0" allowfullscreen> </iframe>
+   <p align="center">
+       Bungee Jumping in Belgrade, Serbia
+   </p>
+     
   * (33) Apply for Amazing Race.
   * (34) Ride in hot-air balloon.
   * (35) Swim with Dolphins
@@ -128,7 +129,7 @@ It is said that if we publicise our goals and make people hold us accountable, o
 
 **Take dance lessons:**
 
-  * (48) B&#8217;boying
+  * (48) B'boying
   * (49) Salsa
 
 **Learn Languages:**
@@ -143,13 +144,13 @@ _Top 5 Most spoken languages._</p>
   * (55) Sign Language 
   * (56) German 
 
-_5 Indian languages. (Reading, Writing and Speaking)_
+_2 Indian languages. (Reading, Writing and Speaking)_
 
   * (57) Telugu (Mother tongue: Still lacking the skill of reading and writing)
-  * (58) Tamil 
-  * (59) Bengali 
-  * (60) Gujarati 
-  * (61) Marathi 
+  * (58) Tamil
+  * (59) 
+  * (60)
+  * (61) 
 
 **Sports:**
 
@@ -170,8 +171,8 @@ _5 Indian languages. (Reading, Writing and Speaking)_
 **Act of Good will:**
 
   * (72) Volunteer for an NGO.
-  * (73) Support a kid&#8217;s education.
-  * (74) Make a difference in someone&#8217;s life.
+  * (73) Support a kid's education.
+  * (74) Make a difference in someone's life. (ex: Adopt)
 
 (75)
 
@@ -211,9 +212,8 @@ _5 Indian languages. (Reading, Writing and Speaking)_
 
 (93) <del datetime="2015-05-24T06:42:35+00:00"> Couchsurfing trip/</del>Backpacking trip.  
   
-  ![image-center](/wp-content/couch_surfing_sim.jpg){: .align-center}
-
-  <p>
+  ![image-center](/wp-content/biketrip/ludhiana/couch_surfing_sim.jpg){: .align-center}
+  <p align="center">
     Couch surfing at Sim Dhaliwal's place
   </p>
 

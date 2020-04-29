@@ -1,10 +1,11 @@
 ---
 id: 676
-title: ""
+title: "Home"
 date: 2015-02-15T05:23:14+00:00
 author: Avinesh P.V.S
 layout: single
 author_profile: true
+classes: wide
 ---
 I'm an NLP and ML Research Scientist at Apple, Siri International. 
 

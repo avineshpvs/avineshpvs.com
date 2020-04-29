@@ -2,14 +2,15 @@
 id: 1
 title: What is happiness ???
 date: 2008-09-06T06:25:22+00:00
-author: Avinesh P.V.S.
 permalink: /what-is-happiness
 image: /wp-content/happiness.jpg
+author: Avinesh P.V.S.
+classes: wide
 categories:
-  - Blog
+  - Philosophy
 ---
-<img src="/wp-content/entrepreneurs-habit.jpg?resize=600%2C355" alt="Happiness"/>
-  
+![image-center](/wp-content/entrepreneurs-habit.jpg){:.align-center height="250px" width="300px"}
+
 This post is one of my longest discussions ever (6 hour long). 
 The discussion is about **"What is happiness to you?"** 
 Before starting off with the theme I should introduce you to 4 people among whom this discussion took place. 

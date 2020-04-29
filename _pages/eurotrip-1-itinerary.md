@@ -2,11 +2,12 @@
 id: 542
 title: EuroTrip-1 Itinerary
 date: 2013-06-28T03:44:51+00:00
-author: Avi
+author: Avinesh P.V.S
 layout: single
-guid: http://www.avineshpvs.com/?page_id=542
+classes: wide
 ---
-I was using a Eurorail Global flexi pass for 15 days and 2 month validity. So had to keep record of the number of travel days. My solo and memorable Eurotrip.
+I was using a Eurorail Global flexi pass for 15 days and 2 month validity. 
+So had to keep record of the number of travel days. My solo and memorable Eurotrip.
 
 +1 &#8211; Euro Rail Travel
 
