@@ -7,12 +7,10 @@ layout: single
 permalink: /dera-baba-nanak-paidal-yatra
 image: /wp-content/biketrip/derababa/derababa-gurudwara.jpg
 classes: wide
-excerpt: "**Guru ka speaker bole langar chakke jayo ji** 
+excerpt_separator: <!--more-->
+excerpt: "Guru ka speaker bole langar chakke jayo ji: 
           (the speaker of the Guru says to eat the langar and then go on). 
-          These were the words which I could hear all the time during the 3 days of the Paidal yatra to Dera Baba Nanak.
-          Firstly, this yatra was the main reason I visited Punjab.
-          Every year, on the 1st of March, in the remembrance of Guru Nanak Devi Ji, the first Sikh Guru, 
-          this yatra is carried out by hundreds of thousands of people. "
+          These were the words which I could hear all the time during the 3 days of the Paidal yatra to Dera Baba Nanak."
 header:
   teaser: wp-content/biketrip/derababa/derababa-gurudwara.jpg
 categories:
@@ -28,6 +26,9 @@ gallery:
   - url: /wp-content/biketrip/derababa/derababa-gurudwara-rest.jpg
     image_path: wp-content/biketrip/derababa/derababa-gurudwara-rest.jpg
     alt: "Resting at the Mukerian gurdwara"
+  - url: /wp-content/biketrip/derababa/derababa-with-all.jpg
+    image_path: wp-content/biketrip/derababa/derababa-with-all.jpg
+    alt: "With the gang at the border"  
   - url: /wp-content/biketrip/derababa/derababa-sunset.jpg
     image_path: wp-content/biketrip/derababa/derababa-sunset.jpg
     alt: "Morning sunrise"
@@ -43,10 +44,6 @@ gallery:
   - url: /wp-content/biketrip/derababa/derababa-border.jpg
     image_path: wp-content/biketrip/derababa/derababa-gurudwara-rest.jpg
     alt: "Resting at the Mukerian gurdwara"
-  - url: /wp-content/biketrip/derababa/derababa-with-all.jpg
-    image_path: wp-content/biketrip/derababa/derababa-with-all.jpg
-    alt: "With the gang at the border"
-    
 ---
 ![image-center](/wp-content/biketrip/derababa/derababa-gurudwara.jpg){:.align-center height="250px" width="400px"}
  
@@ -73,7 +70,7 @@ He advised to go on a motorbike but I insisted on going with the religious batta
 I chose to do this, firstly to have a first-hand experience and secondly to test my endurance. 
 
 <p align="center">
-{% include gallery caption="The journey with the religious battalion" %}
+{% include gallery caption="The journey with the religious battalion" align="center" %}
 </p>
 
 On the first day, we started at around 8:00 am after having breakfast at the Dasuya gurdwara. 

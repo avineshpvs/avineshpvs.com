@@ -100,7 +100,8 @@ It is said that if we publicise our goals and make people hold us accountable, o
   * (31) <del datetime="2013-04-24T18:15:11+00:00">Surfing</del> (2012, Santander, Spain, 7 days course)
   * (32) <del datetime="2015-05-24T06:42:35+00:00">Bungee Jump</del>
   
-  <iframe width="480" height="360" src="https://www.youtube.com/embed/pZi6aE2iglM" frameborder="0" allowfullscreen> </iframe>
+  {% include video id="pZi6aE2iglM" provider="youtube" caption="Bungee Jumping in Belgrade, Serbia" %}
+  
    <p align="center">
        Bungee Jumping in Belgrade, Serbia
    </p>

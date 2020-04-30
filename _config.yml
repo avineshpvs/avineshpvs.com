@@ -50,21 +50,21 @@ comments:
     theme                : "github-light"
     issue_term           : "pathname"
 reCaptcha:
-  siteKey                : "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
-  secret                 : "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
+  siteKey                : "6LdYnPAUAAAAAKW9yKUnAz_uocSRuh0asBuGsIo9"
+  secret                 : "6LdYnPAUAAAAABukmAV013aVJYaukdDiR-jlCpzQ"
 
 atom_feed:
-  path                   : blank (default) uses feed.xml
+  path                   : "http://feeds.feedburner.com/avineshpvs"
 
-search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
-search_provider          : lunr # lunr (default), algolia
+search                   : true
+search_full_content      : true
+search_provider          : lunr
 lunr:
   files_to_exclude:
     - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : "" # Replace this with your ID, or delete
+google_site_verification : "google-site-verification=zBUScfv4Ix-7j_6Svzf6sGeIfRSc8zECLMZbv0aGA-o"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -80,19 +80,19 @@ og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter d
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Person
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/avineshpvs"
     - "https://www.facebook.com/avinesh.pvs"
+    - "https://instagram.com/avineshpvs"
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal"
   google:
-    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    tracking_id          : "UA-2430029-2"
     anonymize_ip         : true
-
 
 # Build settings
 markdown: kramdown
@@ -104,7 +104,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 4 # amount of posts to show
 paginate_path: /blog/page:num/
 timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -154,6 +154,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/avineshpvs"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/avineshpvs"
 
 footer:
   links:
@@ -166,7 +169,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/avineshpvs"
-
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/avinesh.pvs"
 
 collections:
   docs:

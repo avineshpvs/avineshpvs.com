@@ -5,13 +5,15 @@ date: 2016-01-16T11:45:02+00:00
 author: Avinesh P.V.S
 image: /wp-content/biketrip/ludhiana/ludhiana-2.jpg
 classes: wide
+excerpt: "I guess for most of the solo travelers there comes a time when one feels drained and needs to 
+          energize to continue the travel to Punjab. The same happened to me but too soon, I didn’t expect it at all."
 categories:
   - LoneRider
   - Travel
 ---
 ![image-center](/wp-content/biketrip/ludhiana/ludhiana-2.jpg){:.align-center height="250px" width="700px"}
 
-I guess for most of the solo travellers there comes a time when one feels drained and needs to 
+I guess for most of the solo travelers there comes a time when one feels drained and needs to 
 energize to continue the travel to Punjab. The same happened to me but too soon, I didn’t expect it at all. 
 So it was time to move to a friend's place to refuel myself. 
 I was riding from Rusirani village via Alwar to Delhi. 

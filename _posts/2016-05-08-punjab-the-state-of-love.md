@@ -6,6 +6,8 @@ author: Avinesh P.V.S
 permalink: /punjab-the-state-of-love
 image: /wp-content/biketrip/mukheria/mukheria-dadi.jpg
 classes: wide
+excerpt: "After a great stay at Sim’s place in Ludhiana, it was time to move to the next destination as per the plan 
+          i.e. Chandidas village near Dasuya, Hoshiarpur. "
 categories:
   - LoneRider
   - Travel

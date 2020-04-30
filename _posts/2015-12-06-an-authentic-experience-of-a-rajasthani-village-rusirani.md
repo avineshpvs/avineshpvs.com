@@ -6,6 +6,7 @@ author: Avinesh P.V.S
 permalink: /an-authentic-experience-of-a-rajasthani-village-rusirani
 image: /wp-content/biketrip/rusirani/rusirani-temple-ruins.jpg
 classes: wide
+excerpt: "Rusirani village: Village tourism with a great initiative of girl child education and village development. "
 categories:
   - LoneRider
   - Travel
