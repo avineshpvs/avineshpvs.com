@@ -1,17 +1,30 @@
 ---
 id: 24
-title: 'Comfort zone (Delhi) to the land of love (Punjab):'
+title: 'Ludhiana: Comfort zone (Delhi) to the land of love'
 date: 2016-01-16T11:45:02+00:00
 author: Avinesh P.V.S
 image: /wp-content/biketrip/ludhiana/ludhiana-2.jpg
 classes: wide
 excerpt: "I guess for most of the solo travelers there comes a time when one feels drained and needs to 
           energize to continue the travel to Punjab. The same happened to me but too soon, I didn’t expect it at all."
+header:
+  teaser: /wp-content/biketrip/ludhiana/couch_surfing_sim.jpg
 categories:
   - LoneRider
   - Travel
+gallery:
+  - url: /wp-content/biketrip/ludhiana/couch_surfing_sim.jpg
+    image_path: wp-content/biketrip/ludhiana/couch_surfing_sim.jpg
+    alt: "with Sim Dhaliwal's Family"
+  - url: /wp-content/biketrip/ludhiana/ludhiana-2.jpg
+    image_path: wp-content/biketrip/ludhiana/ludhiana-2.jpg
+    alt: "Gurudwara in Mehdiana"
+  - url: /wp-content/biketrip/ludhiana/ludhiana-1.jpg
+    image_path: wp-content/biketrip/ludhiana/ludhiana-1.jpg
+    alt: "TThe cruelty of the Mugal's over Sikhs at Mehdiana (Punjab)"
 ---
-![image-center](/wp-content/biketrip/ludhiana/ludhiana-2.jpg){:.align-center height="250px" width="700px"}
+
+{% include gallery caption="Ludhiana: Amazing time with Sim's beautiful family. (a) Sim Dhaliwal's Family (b) Gurudwara in Mehdiana (c) The cruelty of the Mughal's over Sikhs at Mehdiana (Punjab) " %}
 
 I guess for most of the solo travelers there comes a time when one feels drained and needs to 
 energize to continue the travel to Punjab. The same happened to me but too soon, I didn’t expect it at all. 
@@ -55,12 +68,6 @@ He had two guest rooms for travellers and the room was awesome.
 After a quickly freshening up, we had a tea and a long introduction. 
 We shared our travel stories and had long discussions. 
 He shared his couchsurfing experience and he really loves hosting people. 
-
-  ![image-center](/wp-content/biketrip/ludhiana/couch_surfing_sim.jpg){:.align-center height="250px" width="700px"}
-  
-  <p align="center">
-    Sim Dhaliwal's family (Ludhiana)
-  </p>
 
 Sim is basically does business in the Automobiles industry. His love for bikes speaks for itself. Sim is definitely a brother from another mother. He and his family are the best people I have met on Couchsurfing. A perfect family man, left his job and decided to come back to Ludhiana when his father retired. He knows how to keep everyone happy and comfortable. He is a traveller, likes to explore new things. Further, he planned for a backpacking trip to Europe with his son (Karan) in the summer. I think he will have finished his trip before I publish my blog post. 
 

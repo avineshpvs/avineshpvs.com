@@ -12,7 +12,7 @@ excerpt: "Guru ka speaker bole langar chakke jayo ji:
           (the speaker of the Guru says to eat the langar and then go on). 
           These were the words which I could hear all the time during the 3 days of the Paidal yatra to Dera Baba Nanak."
 header:
-  teaser: wp-content/biketrip/derababa/derababa-gurudwara.jpg
+  teaser: /wp-content/biketrip/derababa/derababa-sunset.jpg
 categories:
   - LoneRider
   - Travel
@@ -69,9 +69,7 @@ When I told my host that I would like to walk the distance he was a shocked and 
 He advised to go on a motorbike but I insisted on going with the religious battalion. 
 I chose to do this, firstly to have a first-hand experience and secondly to test my endurance. 
 
-<p align="center">
-{% include gallery caption="The journey with the religious battalion" align="center" %}
-</p>
+{% include gallery caption="The journey with the religious battalion at the Dera Baba Nanak" %}
 
 On the first day, we started at around 8:00 am after having breakfast at the Dasuya gurdwara. 
 There were 2 official vehicles one jeep carrying the local guru with some important people and 

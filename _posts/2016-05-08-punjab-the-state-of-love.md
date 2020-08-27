@@ -5,18 +5,38 @@ date: 2016-05-08T10:45:54+00:00
 author: Avinesh P.V.S
 permalink: /punjab-the-state-of-love
 image: /wp-content/biketrip/mukheria/mukheria-dadi.jpg
+header:
+  teaser: wp-content/biketrip/mukheria/mukheria-dadi.jpg
 classes: wide
 excerpt: "After a great stay at Sim’s place in Ludhiana, it was time to move to the next destination as per the plan 
           i.e. Chandidas village near Dasuya, Hoshiarpur. "
+gallery:
+  - url: /wp-content/biketrip/mukheria/mukheria-dadi.jpg
+    image_path: wp-content/biketrip/mukheria/mukheria-dadi.jpg
+    alt: "With Bhaisab and Dadi"
+  - url: /wp-content/biketrip/mukheria/mukheria-dadaji.jpg
+    image_path: /wp-content/biketrip/mukheria/mukheria-dadaji.jpg
+    alt: "Dadaji doing working on the carpentry"
+  - url: /wp-content/biketrip/mukheria/mukheria-couple.jpg
+    image_path: wp-content/biketrip/mukheria/mukheria-couple.jpg
+    alt: "My hosts: Awesome couple, Bhaisab and Bulli aunty"
+  - url: /wp-content/biketrip/mukheria/mukheria-temple.jpg
+    image_path: wp-content/biketrip/mukheria/mukheria-temple.jpg
+    alt: "Shiv temple has a story related to Pandavas during the Agyatvas"
+  - url: /wp-content/biketrip/mukheria/mukheria-forest.jpg
+    image_path: wp-content/biketrip/mukheria/mukheria-forest.jpg
+    alt: "Early morning walk in the between the fields"
+  - url: /wp-content/biketrip/mukheria/mukheria-temple-top.jpg
+    image_path: wp-content/biketrip/mukheria/mukheria-temple-top.jpg
+    alt: "View of the village from the top of the temple"
+  
+
 categories:
   - LoneRider
   - Travel
 ---
-![image-center](/wp-content/biketrip/mukheria/mukheria-dadi.jpg){:.align-center height="250px" width="700px"}
 
-  <p align="center">
-    With Bhaisab and Dadi
-  </p>
+{% include gallery caption="Punjab: The State of love has given me a great family and beautiful memories." %}
   
 After a great stay at Sim’s place in Ludhiana, it was time to move to the next destination as per the plan 
 i.e. Chandidas village near Dasuya, Hoshiarpur. 
@@ -36,12 +56,6 @@ to their house. I felt like Shahrukh Khan from Swades were the kid&#8217;s guide
 The only difference here was instead of a caravan it was my bike. I took of my ninja gear and took the 
 blessings by touching the feet of the elders, Bully aunty and Jaswinder bhaisab. 
 It is a custom I have been used to since my childhood and it also works like a charm as a first impression 🙂
-
-![image-center](/wp-content/biketrip/mukheria/mukheria-lucky.jpg){:.align-center height="250px" width="400px"}
-  
-  <p align="center">
-    In my ninja gear with Lovely
-  </p>
   
 I met Bulli aunty and Jaswinder bhaisab in Rajasthan during my friend’s marriage. 
 My first interaction with them was really funny as I asked Bhaisab if Bully aunty was his daughter 
@@ -57,7 +71,6 @@ easiest way is to attend some event (festival, weddings, local celebrations).
 It works mainly because people are really happy celebrating it and it is a perfect time when 
 people would be excited to share about their culture. 
 
-
 Some how I always had the perception about the Punjabi families that they were a happy-go-lucky type of 
 families (“khate peete families” &#8211; love for food and party) (Courtesy: Bollywood movies). 
 They have interesting nicknames “Jassi”, “Happy”, “Lovely”, “Ruby” and I really don’t know how they
@@ -70,12 +83,12 @@ They have interesting nicknames “Jassi”, “Happy”, “Lovely”, “Ruby�
  I knew about the religion before but I got to know their belief system when I stayed with them.
  Of course it did not change my ideologies of being an Atheist but will talk about it in detail in my next
  blog post.
-    
- ![image-center](/wp-content/biketrip/mukheria/mukheria-couple.jpg){:.align-center height="250px" width="700px"}
-   
-  <p align="center">
-    My hosts: Awesome couple, Bhaisab and Bulli aunty
-  </p>
+ 
+ ![image-center](/wp-content/biketrip/mukheria/mukheria-lucky.jpg){:.align-center height="250px" width="400px"}
+ 
+ <p align="center">
+    In my ninja gear with Lovely
+ </p>
 
 Initially my hosts were a bit skeptical whether I would be okay to stay at their place and whether 
 I would like the place. After a few days they told me about their first doubts and my reply was 
@@ -108,12 +121,6 @@ I was quite lucky that my hosts took me to various historical places mainly Temp
 It was really nice to know the history and understand their beliefs. We also visited lot of their relatives 
 and everyone treated me like one of their own. Most of the people asked me how I managed to come 
 there on a bike. 
-
-![image-center](/wp-content/biketrip/mukheria/mukheria-temple.jpg){:.align-center height="250px" width="700px"}
-
-  <p align="center">
-    Shiv temple has a story related to Pandavas during the Agyatvas
-  </p>
 
 Overall, I started loving the love and affection of Punjabi families. 
 I was lucky for being treated as one of their own and I am sure I will visit 

@@ -7,9 +7,14 @@ layout: single
 author_profile: true
 classes: wide
 ---
-The so-called 101 Bucket List &#8211; 101 things that I would like to do in my lifetime. I planned for a while to create a bucket list. The idea came when I was actually thinking about my goals/wishes which I fulfilled by the end of the year 2012. Then I realised it&#8217;s really hard to keep note of them. A bucket list is actually a list of things that I want to accomplish. 
+The so-called 101 Bucket List, 101 things that I would like to do in my lifetime. 
+I planned for a while to create a bucket list. 
+The idea came when I was actually thinking about my goals/wishes which I fulfilled by the end of the year 2012. 
+Then I realised it's really hard to keep note of them. 
+A bucket list is actually a list of things that I want to accomplish. 
 
-It is said that if we publicise our goals and make people hold us accountable, one is more likely to fulfil one&#8217;s goals. So here I am with my 101 Bucket List.
+It is said that if we publicise our goals and make people hold us accountable, one is more likely to fulfil one's goals.
+So here I am with my 101 Bucket List.
 
  **Current Status: 17/101** 
 
